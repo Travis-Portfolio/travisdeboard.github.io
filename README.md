@@ -1,2 +1,2 @@
-# This is a work in progress. The site is still being developed. You can see my progress here.
+# This site is my personal software development portfolio.
 ## travisdeboard.github.io
